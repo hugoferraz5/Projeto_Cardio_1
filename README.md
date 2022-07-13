@@ -26,7 +26,8 @@ Atualmente, na empresa existem médicos especializados no assunto, mas devido à
 
 Logo, percebemos que a empresa possui um determinado lucro ou prejuízo, a depender da acuracidade da detecção por causa dos custos com todo o processo, pagamento de funcionários, entre outros.Os dados podem ser encontrados em: https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
 
-O projeto completo pode ser encontrado neste link: https://github.com/hugoferraz5/Projeto_Cardio_1/blob/main/Projeto%20Cardio.ipynb?plain=1#L29
+O projeto completo pode ser encontrado neste link:
+<a href="https://github.com/hugoferraz5/Projeto_Cardio_1/blob/main/Projeto%20Cardio.ipynb">Projeto_Cardio_1</a>
 
 Passo a passo do projeto: 
 
