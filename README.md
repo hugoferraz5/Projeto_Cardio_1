@@ -24,7 +24,7 @@ A ProjetoCardio é uma empresa fictícia responsável pela detecção precoce de
 
 Atualmente, na empresa existem médicos especializados no assunto, mas devido à carga horária elevada deles que se revezam para diminuir os riscos e uma acuracidade entre 55% e 65% devido à complexidade do diagnóstico, se tornou necessário a detecção dessa doença através dos dados. Nela, é cobrado uma valor de R$500,00 a partir de 50% de acuracidade e a cada 5% é acrescido R$500,00 no valor.Abaixo de 50% é cobrado nenhum valor. 
 
-Logo, percebemos que a empresa possui um determinado lucro ou prejuízo, a depender da acuracidade da detecção por causa dos custos com todo o processo, pagamento de funcionários, entre outros.Os dados podem ser encontrados em: https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
+Logo, percebemos que a empresa possui um determinado lucro ou prejuízo, a depender da acuracidade da detecção por causa dos custos com todo o processo, pagamento de funcionários, entre outros.Os dados podem ser encontrados em: <a href="https://www.kaggle.com/sulianova/cardiovascular-disease-dataset">Kaggle</a>
 
 O projeto completo pode ser encontrado neste link:
 <a href="https://github.com/hugoferraz5/Projeto_Cardio_1/blob/main/Projeto%20Cardio.ipynb">Projeto_Cardio_1</a>
