@@ -154,7 +154,7 @@ O modelo usado foi o **SGDClassifier** e os resultados obtidos foram esses abaix
 
 |Modelo         | Precisão             | Revocação           |f1-score              | ROC AUC            |  
 :-------------- | :--------------------| :------------------ | :--------------------| :------------------| 
-|LGBMClassifier | 0.0.7391 (+/- 0.0176)| 0.6833 (+/- 0.0168) | 0.7101 (+/- 0.0137)  |0.7887 (+/- 0.0136) |             
+|LGBMClassifier | 0.7391 (+/- 0.0176)| 0.6833 (+/- 0.0168) | 0.7101 (+/- 0.0137)  |0.7887 (+/- 0.0136) |             
 
 # 7 Próximos passos
 * Um aplicativo ou programa para informar de imediato ao paciente sua probabilidade de ter ou não à doença.
