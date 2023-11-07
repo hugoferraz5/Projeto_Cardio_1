@@ -22,7 +22,7 @@ Neste projeto temos uma Empresa fictícia que detecta pacientes com Doenças Car
 # 2 Apresentação
 A ProjetoCardio é uma empresa fictícia responsável pela detecção precoce de pacientes com Doença Cardiovascular nas suas fases iniciais por um determinado preço.
 
-Atualmente, na empresa existem médicos especializados no assunto, mas devido à carga horária elevada deles que se revezam para diminuir os riscos e uma acuracidade entre 55% e 65% devido à complexidade do diagnóstico, se tornou necessário a detecção dessa doença através dos dados. Nela, é cobrado uma valor de R$500,00 a partir de 50% de acuracidade e a cada 5% é acrescido R$500,00 no valor.Abaixo de 50% é cobrado nenhum valor. 
+Atualmente, na empresa existem médicos especializados no assunto, mas devido à carga horária elevada deles que se revezam para diminuir os riscos e uma acuracidade entre 55% e 65% na detecção das doenças devido à complexidade do diagnóstico, se tornou necessário a detecção dessa doença através dos dados. Nela, é cobrado uma valor de R$500,00 a partir de 50% de acuracidade e a cada 5% é acrescido R$500,00 no valor.Abaixo de 50% não é cobrado valor. 
 
 Logo, percebemos que a empresa possui um determinado lucro ou prejuízo, a depender da acuracidade da detecção por causa dos custos com todo o processo, pagamento de funcionários, entre outros.Os dados podem ser encontrados em: <a href="https://www.kaggle.com/sulianova/cardiovascular-disease-dataset">Kaggle</a>
 
@@ -35,15 +35,15 @@ Passo a passo do projeto:
 ------------ | -------------
 |id | ID dos pacientes|
 |age | Idade dos pacientes |
-|gender | Genero dos pacientes |
+|gender | Gênero dos pacientes |
 |weight | Peso dos pacientes  |
-|ap_hi | Pressao arterial sistolica de cada paciente |
-|ap_lo | Pressao sanguinea diastolica	|
+|ap_hi | Pressão arterial sistólica de cada paciente |
+|ap_lo | Pressão sanguinea diastólica	|
 |cholesterol | 1: Baixo Colesterol - 2: Medio Colesterol - 3:Alto Colesterol|
 |gluc | 1: Glicose Normal - 2: Glicose Acima do Normal - 3: Glicose Bem Acima do Normal|
-|smoke | 0: Nao Fuma - 1: Fuma |
-|alco | 0: Nao Bebe - 1: Bebe |
-|active | 0: Não Pratica Atividade Fisica - 1: Pratica Atividade Fisica |
+|smoke | 0: Não Fuma - 1: Fuma |
+|alco | 0: Não Bebe - 1: Bebe |
+|active | 0: Não Pratica Atividade Física - 1: Pratica Atividade Física |
 |cardio | 0: Não Possui Doença Cardiovascular - 1: Possui Doença Cardiovascular |
 
 # 3 Premissas de negócio
