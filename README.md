@@ -161,3 +161,7 @@ O modelo usado foi o **SGDClassifier** e os resultados obtidos foram esses abaix
 * Em caso de possível sobrecarga no uso do aplicativo, disponibilizar na entrada da empresa máquinas para o cliente apenas colocar seus dados e saber na hora. 
 * Importante obter mais informações dos clientes para colocar na base de dados.
 
+# 8 Ferramentas utilizadas
+Manipulação e limpeza dos dados: pandas, numpy
+VIsualização dos dados: matplotlib, seaborn
+Machine learning: Classificação (scikit-learn e LGBMClassifier), selação de features (Extra Tree Classifier e Boruta)
