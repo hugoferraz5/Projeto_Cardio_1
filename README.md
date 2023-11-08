@@ -66,14 +66,14 @@ Passo a passo do projeto:
 
 # 5 Análises exploratórias dos dados
 **Variável de Destino**
-<img src="https://user-images.githubusercontent.com/91911052/178302925-364f066a-ad0c-4204-8888-d175cf2470c5.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/6021d943-0d24-4b3a-ac1b-00860947a3f0.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 **Variável Numérica**
-<img src="https://user-images.githubusercontent.com/91911052/178303434-12c57b49-1f7c-4ee8-8081-c13625847e0b.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/9b106e0a-2108-4880-93d8-79dbf6a1ee0b.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 **Variável Categórica**
-<img src="https://user-images.githubusercontent.com/91911052/178303711-7e731868-558c-46dc-ba5b-b0dcac3e177d.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/e9392d4e-a764-48e8-a955-a53bae4cd91f.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 ## Insights de negócio
@@ -82,47 +82,47 @@ Passo a passo do projeto:
 
 **Falso**: Tanto pessoas que fumam, quanto pessoas que não fumam, tem chances de terem Doença Cardiovascular.
 
-<img src="https://user-images.githubusercontent.com/91911052/178304529-ea785d4b-dc9f-4575-bb2d-1f295ae344c8.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/7bcb3691-b4af-40df-bf4b-79b7c1b6fe41.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 * **H2**. Mulheres tem mais chances de ter Doença Cardiovascular
 
 **Falso**: De acordo com o gráfico, mulheres tem menos chance de ter Doença Cardiovascular que os homens.Ambos merecem atenção.
 
-<img src="https://user-images.githubusercontent.com/91911052/178304630-fd1cc91b-c13b-4318-b5de-7af5e451759a.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/e6bf2688-12da-4579-a1db-3a7f7cd2069c.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 * **H3**. Pessoas mais pesadas tem mais chances de ter Doença Cardiovascular
 
 **Verdadeiro**:Pessoas com Doença Cardiovascular possuem, em sua maioria, peso entre 65kg e 85kg, diferente dos que não tem, no qual possuem entre 62kg e 79kg.
 
-<img src="https://user-images.githubusercontent.com/91911052/178304718-2beff902-ad2f-41c3-8859-516c0ee10044.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/479274b6-4c56-495e-bdbe-08bc4dc15de8.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 * **H4**. Pessoas que não fazem atividade física tem muito mais chances de ter Doença Cardiovascular
 
 **Falso**: De acordo com o gráfico, pessoas que não fazem atividade física tem mais chances de ter Doença Cardiovascular, mas não numa diferença grande.De qualquer forma, incentivar a prática.
 
-<img src="https://user-images.githubusercontent.com/91911052/178304797-03a4ec72-6522-41fb-8e53-f7f23fc4ad03.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/ab973cba-38a4-4899-a999-6b0b6d18464c.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 * **H5**. Pessoas que fumam e bebem simultaneamente tem mais chances de ter doença cardiovascular 
 
 **Falso**: Pessoas que fumam e bebem simultaneamente tem menos quantidade populacional diagnosticada com Doença Cardiovascular.
 
-<img src="https://user-images.githubusercontent.com/91911052/178304872-4cc27d99-d3ee-479a-a16f-90c56c956c39.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/4eaf616f-a9f8-4f09-9f06-e6b276315b3d.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 # 6 Machine Learning
 
 Usamos vários modelos de Machine Learning de classificação com o objetivo de obter a melhor acurácia e a menor quantidade de Falsos negativos. Pelo lado dos pacientes é importante a menor quantidade posível dos **falsos negativos**(revocação) e pelo lado da empresa é importante observar os **falsos positivos**(precisão). O f1-score que é o equilíbrio entre revocação(recall) e precisão(precision) não foi o maior no modelo **LGBMClassifier**, mas pesou o fato das outras acurácias serem maiores.
 
-<img src="https://user-images.githubusercontent.com/91911052/178327899-b09b7750-176b-4550-a46e-a4693f61aa16.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/487c27d8-eddf-443a-94fa-bb46d341af3b.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 Se observarmos na matriz da confusão, o modelo **LGBMClassifier** é um dos que tem menos falsos positivos e falsos negativos que é bastante importante e o modelo **SGDClassifier** possui uma precisão(precision) bem baixa, então se torna mais um motivo desse modelo ser o escolhido.
 
-<img src="https://user-images.githubusercontent.com/91911052/178329334-74e4e6d8-8b48-4e08-a6f1-88f7e527d30d.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/202ed730-d2d6-43dd-accf-92eb0a75c244.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 ## 6.1 Resultados para o negócio
