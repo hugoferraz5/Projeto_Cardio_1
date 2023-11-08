@@ -35,7 +35,7 @@ Passo a passo do projeto:
 ------------ | -------------
 |id | ID dos pacientes|
 |age | Idade dos pacientes |
-|gender | Gênero dos pacientes |
+|gender | Gênero dos pacientes - 1: Mulher - 2: Homem|
 |weight | Peso dos pacientes  |
 |ap_hi | Pressão arterial sistólica de cada paciente |
 |ap_lo | Pressão sanguinea diastólica	|
