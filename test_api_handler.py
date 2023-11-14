@@ -9,10 +9,7 @@ df = df.sample(5)
 json_df = json.dumps(df.to_dict(orient = 'records'))
 
 def predict(data):
-    # API Call
-
-    # Web URL
-    # url =  'https://healthinsurance-webapp-api.onrender.com/healthinsurance/predict'  
+    # API Call 
 
     # Local URL
     url = 'https://dc36-54-172-217-41.ngrok-free.app/cardio'
