@@ -171,3 +171,5 @@ Manipulação e limpeza dos dados: pandas, numpy
 VIsualização dos dados: matplotlib, seaborn
 
 Machine learning: Classificação (scikit-learn e LGBMClassifier), selação de features (Extra Tree Classifier e Boruta)
+
+Ambiente Cloud: Flask, requests, Ngrok, desenho de API e AWS
