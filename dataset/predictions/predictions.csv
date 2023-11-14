@@ -1,0 +1,6 @@
+id,idade,genero,altura,peso,pressao_arterial_sistolica,pressao_sanguinea_diastolica,colesterol,glicose,fuma,alcool,atividade_fisica,presenca_ou_ausencia_de_doença_cardiovascular,predictions
+51445,18204,2,1.6,60.0,120,80,1,1,0,0,1,0,0.2513842444
+40994,14424,2,1.73,105.0,120,80,2,1,0,0,1,0,0.1410796645
+99299,18027,1,1.67,53.0,120,80,1,1,0,0,1,1,0.197124707
+55643,19040,1,1.65,92.0,140,90,1,1,0,0,1,0,0.8475061894
+96407,20964,1,1.57,63.0,150,80,2,1,0,0,1,1,0.8249590264
