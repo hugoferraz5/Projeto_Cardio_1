@@ -63,6 +63,9 @@ Passo a passo do projeto:
 * **Modelagem dos Dados** - Fazer boas modelagens(correlações, reescalonamento, codificações, frequência dos dados) afim de facilitar as leituras dos modelos de Machine Learning. Achar os melhores recursos para os algoritmos.
 * **Algoritmo de Machine Learning** - Com os dados modelados, vamos usar alguns algoritmos de Machine Learning de classificação para achar a melhor acurácia. Uso de Validação Cruzada e hiperparâmetros para melhorar ainda mais os modelos e colocar em prática no final.
 * **Avaliação de Algoritmo** - Comparação dos resultados dos algoritmos de classificação usados e utilizar o de melhor acurácia para colocar em prática a questão de negócios.
+* **Deploy** - Através do cloud da AWS, implantamos o nosso modelo de Machine Learning e esse modelo responderá requisições via API, de início, apenas localmente.
+<img src="https://github.com/hugoferraz5/Alura_Creditas2/assets/91911052/acd63cbe-28d1-4f67-a35f-e0067e25bea7.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
 
 # 5 Análises exploratórias dos dados
 **Variável de Destino**
