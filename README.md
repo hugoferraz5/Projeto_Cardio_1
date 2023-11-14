@@ -29,6 +29,9 @@ Logo, percebemos que a empresa possui um determinado lucro ou prejuízo, a depen
 O projeto completo pode ser encontrado neste link:
 <a href="https://github.com/hugoferraz5/Projeto_Cardio_1/blob/main/Projeto%20Cardio.ipynb">Projeto_Cardio_1</a>
 
+Foi criado uma API local e ela pode ser acessada aqui:
+<a href="https://github.com/hugoferraz5/Projeto_Cardio_1/blob/main/test_api_handler.py">APIlocal</a>
+
 Passo a passo do projeto: 
 
 |Atributo | Definição
@@ -163,6 +166,7 @@ O modelo usado foi o **SGDClassifier** e os resultados obtidos foram esses abaix
 * Um aplicativo ou programa para informar de imediato ao paciente sua probabilidade de ter ou não à doença.
 * Em caso de possível sobrecarga no uso do aplicativo, disponibilizar na entrada da empresa máquinas para o cliente apenas colocar seus dados e saber na hora. 
 * Importante obter mais informações dos clientes para colocar na base de dados.
+* Usar outras ferramentas para uso da API globalmente.
 
 # 8 Ferramentas utilizadas
 
