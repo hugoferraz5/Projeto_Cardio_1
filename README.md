@@ -72,7 +72,7 @@ Passo a passo do projeto:
 
 # 5 Análises exploratórias dos dados
 **Variável de Destino**
-<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/6021d943-0d24-4b3a-ac1b-00860947a3f0.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/25e94cff-7ba7-4ffd-8910-ded6da9a8248.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 **Variável Numérica**
@@ -84,39 +84,49 @@ Passo a passo do projeto:
 
 ## Insights de negócio
 
-* **H1**. Pessoas que fumam tem mais chances de ter Doença Cardiovascular
+* **H1**. Em cada classe de idade a maioria das pessoas não tem doença cardiovascular
+
+**Falso**: As pessoas com faixa etária acima de 56 anos começam a ser maioria com doença cardiovascular como observado nos 2 gráficos abaixo..
+
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/0358cbe1-1edd-4f48-bbf1-706c45b2973a.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/84f91db3-8b69-4f23-b202-ad3d57389cec.png" alt="pic1" style="zoom:60% ;" />
+<spacer type="horizontal" width="10" height="10">  </spacer>
+
+* **H2**. Pessoas que fumam tem mais chances de ter Doença Cardiovascular
 
 **Falso**: Tanto pessoas que fumam, quanto pessoas que não fumam, tem chances de terem Doença Cardiovascular.
 
-<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/7bcb3691-b4af-40df-bf4b-79b7c1b6fe41.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/4490ae6d-0482-421a-bed6-16203adcf86a.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-* **H2**. Mulheres tem mais chances de ter Doença Cardiovascular
+* **H3**. Mulheres tem mais chances de ter Doença Cardiovascular
 
 **Falso**: De acordo com o gráfico, mulheres tem menos chance de ter Doença Cardiovascular que os homens.Ambos merecem atenção.
 
-<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/e6bf2688-12da-4579-a1db-3a7f7cd2069c.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/542b2fdd-006b-4cc9-9b76-e09432f2afc8.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-* **H3**. Pessoas mais pesadas tem mais chances de ter Doença Cardiovascular
+* **H4**. Pessoas mais pesadas tem mais chances de ter Doença Cardiovascular
 
 **Verdadeiro**:Pessoas com Doença Cardiovascular possuem, em sua maioria, peso entre 65kg e 85kg, diferente dos que não tem, no qual possuem entre 62kg e 79kg.
 
-<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/479274b6-4c56-495e-bdbe-08bc4dc15de8.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/7295f068-45c0-41e6-a073-16d74bc980a1.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-* **H4**. Pessoas que não fazem atividade física tem muito mais chances de ter Doença Cardiovascular
+* **H5**. Pessoas que não fazem atividade física tem muito mais chances de ter Doença Cardiovascular
 
 **Falso**: De acordo com o gráfico, pessoas que não fazem atividade física tem mais chances de ter Doença Cardiovascular, mas não numa diferença grande.De qualquer forma, incentivar a prática.
 
-<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/ab973cba-38a4-4899-a999-6b0b6d18464c.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/46218c99-77d6-4159-a99e-d514f9243459.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
-* **H5**. Pessoas que fumam e bebem simultaneamente tem mais chances de ter doença cardiovascular 
+* **H6**. Pessoas que fumam e bebem simultaneamente tem mais chances de ter doença cardiovascular 
 
 **Falso**: Pessoas que fumam e bebem simultaneamente tem menos quantidade populacional diagnosticada com Doença Cardiovascular.
 
-<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/4eaf616f-a9f8-4f09-9f06-e6b276315b3d.png" alt="pic1" style="zoom:60% ;" />
+<img src="https://github.com/hugoferraz5/Projeto_Cardio_1/assets/91911052/d6e2a68d-7ba6-4a1b-a3bc-d4e4402c3ee4.png" alt="pic1" style="zoom:60% ;" />
 <spacer type="horizontal" width="10" height="10">  </spacer>
 
 # 6 Machine Learning
